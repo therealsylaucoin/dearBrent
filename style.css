@@ -11,6 +11,7 @@ html { -moz-box-sizing: border-box; -webkit-box-sizing: border-box; box-sizing: 
 body {
     background-image: url('lindsay-sunrise-hdr-07.jpg');
     background-size: cover;
+    background-repeat: no-repeat;
     font-family: 'Roboto', sans-serif;
 }
 
